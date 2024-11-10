@@ -4,7 +4,8 @@
 
 <p align="center">
   📘 Currently, I'm working on a project for college, using Python and Django to develop an e-commerce platform for sports equipment.<br><br>
-  💡 My skill set includes Python, Django, Pandas, Numpy, Selenium, as well as HTML, CSS, and JavaScript for web development.
+  💡 My skill set includes Python, Django, Pandas, Numpy, Selenium, as well as HTML, CSS, and JavaScript for web development.<br><br>
+  📜 I'm in my third year of pursuing a Bachelor's degree in Information Systems at UNESP Bauru
 </p>
 
 ### 
